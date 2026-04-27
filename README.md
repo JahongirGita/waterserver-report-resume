@@ -23,11 +23,16 @@ Dio: Used for API requests and data handling
 
 #
 <p float="left">
-  <img src="images/Screenshot_20251218-112947.jpg" width="180"/>
-  <img src="images/Screenshot_20251218-112955.jpg" width="180"/>
-  <img src="images/Screenshot_20251218-113001.jpg" width="180"/>
-  <img src="images/Screenshot_20251218-113011.jpg" width="180"/>
-  <img src="images/Screenshot_20251218-113018.jpg" width="180"/>
+  <img src="images/Screenshot_20260427-120109.jpg" width="180"/>
+  <img src="images/Screenshot_20260427-120130.jpg" width="180"/>
+  <img src="images/Screenshot_20260427-120145.jpg" width="180"/>
+  <img src="images/Screenshot_20260427-120158.jpg" width="180"/>
+  <img src="images/Screenshot_20260427-120206.jpg" width="180"/>
+  <img src="images/Screenshot_20260427-120233.jpg" width="180"/>
+  <img src="images/Screenshot_20260427-120257.jpg" width="180"/>
+  <img src="images/Screenshot_20260427-120310.jpg" width="180"/>
+  <img src="images/Screenshot_20260427-120319.jpg" width="180"/>
+  <img src="images/Screenshot_20260427-120352.jpg" width="180"/>
 </p>
 
 
